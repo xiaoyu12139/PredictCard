@@ -47,19 +47,19 @@ CMakeLists.txt.user*
 .*.swp
 
 # Visual Studio generated files
-*.ib_pdb_index
-*.idb
-*.ilk
-*.pdb
-*.sln
-*.suo
-*.vcproj
-*vcproj.*.*.user
-*.ncb
-*.sdf
-*.opensdf
-*.vcxproj
-*vcxproj.*
+# *.ib_pdb_index
+# *.idb
+# *.ilk
+# *.pdb
+# *.sln
+# *.suo
+# *.vcproj
+# *vcproj.*.*.user
+# *.ncb
+# *.sdf
+# *.opensdf
+# *.vcxproj
+# *vcxproj.*
 
 # MinGW generated files
 *.Debug
