@@ -127,3 +127,6 @@ cap.open(1);//默认为0
 
   `int r1 = model_pixel->predict(vec1);`进行预测，返回值为训练值的类别标签
 
+
+![](https://github.com/xiaoyu12139/PredictCard/blob/master/img/card_show.gif)
+
