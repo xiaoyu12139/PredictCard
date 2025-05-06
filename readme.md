@@ -2,6 +2,10 @@
 
 ---
 
+##### 介绍
+
+qt+opencv实现的扑克牌数字和花色实时识别
+
 > 2025/5/2 12:33:05
 
 vcpkg install opencv:x64-windows 安装opencv
